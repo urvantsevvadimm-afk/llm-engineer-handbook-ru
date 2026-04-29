@@ -1,4 +1,4 @@
-![Обложка](assets/cover.png)
+![Обложка](cover_llm-engineer-handbook-ru.png)
 
 # Настольная книга LLM-инженера: от задачи к рабочему результату
 
